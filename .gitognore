@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.py[cod]
+*.json
+.idea/
+*.log
+*.swp
+*.bak
+*.tmp
+.DS_Store
+library.json
